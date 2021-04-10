@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/test slug/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/default/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/components/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/post-categories/news/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/post-categories/updates/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/posts/bird/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/posts/red/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/posts/cat/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/posts/yellow-van/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/posts/trees/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/posts/man/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/posts/chairs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/posts/river/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/posts/sign/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/posts/swiming/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/posts/city/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/posts/mountains/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yellowcake.netlify.com/ResumeFolio/posts/post-two/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
